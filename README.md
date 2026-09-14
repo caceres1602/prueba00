@@ -1,25 +1,23 @@
-# Portal Web Multimedia
+# Hispanoamérica · Landing Page
 
-Proyecto de Programación Web I sobre **computación cuántica, inteligencia artificial y robótica**, basado en el episodio de José Ignacio Latorre en Endor Podcast.
+Landing page informativa inspirada en el video de YouTube proporcionado para el proyecto.
 
 ## Estructura
-- `index.html` · página principal
-- `css/styles.css` · estilos propios
-- `img/` · recursos gráficos SVG
-- `guia-explicativa.pdf` · documentación técnica
+- `index.html` · estructura y contenido de la página.
+- `style.css` · estilos, diseño responsive y paleta visual.
+- `script.js` · menú móvil y animaciones de aparición.
+- `.github/workflows/pages.yml` · despliegue automático mediante GitHub Pages.
+- `css/` e `img/` · recursos del proyecto anterior conservados para no perder el historial.
 
-## Tecnologías
-- HTML5 semántico
-- CSS3 tradicional
-- Iframe de YouTube para el contenido audiovisual
-- Sin JavaScript, Flexbox, Grid ni Media Queries
+## Características
+- Diseño oscuro documental con acentos dorados.
+- Hero, capítulos históricos, línea temporal, Real de a Ocho, futuro, FAQ y footer.
+- Video de YouTube integrado.
+- Responsive para PC, tablet y móvil.
+- Despliegue preparado con GitHub Pages.
+
+## Video de referencia
+https://www.youtube.com/live/hnJCjGZOeUc
 
 ## Repositorio
 https://github.com/caceres1602/prueba00
-
-## Publicación
-Proyecto preparado para GitHub Pages:
-https://caceres1602.github.io/prueba00/
-
-## Desarrollo incremental
-El historial del repositorio registra la construcción progresiva de la entrega: HTML, estilos, corrección de restricciones, recursos gráficos, documentación y README.
